@@ -2,7 +2,7 @@
 
 ## How to install
 
-With npm and Vite installed, just type `npm install --save leap-year` in any terminal.
+With npm and Vite installed, just type `npm install --save leap-year` in your terminal.
 
 ## How to use
 
@@ -22,7 +22,7 @@ isLeapYear(2022);
 
 I made a little website that takes the number from an input field, displays it in the h1 and determines if it's a leap year or not when pressing the submit button.
 
-This is the JavaScript code for the program:
+##### JavaScript:
 
 <pre><code>
 import "./style.css";
@@ -54,4 +54,6 @@ function displayYear(inputYear) {
 
 </code></pre>
 
-Here is a link to my GitHub page: [isLeapYear](_insert github page link_)
+Here is a link to the original npm-site by sindresorhus: [isLeapYear](https://www.npmjs.com/package/leap-year)
+
+Here is a link to a video demo of my program: [Demo](https://www.youtube.com/watch?v=ZqTOiLADA_o)
